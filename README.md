@@ -1,4 +1,4 @@
-## Bom dia queridos!, Bem vindos.
+## Olá queridos!, Bem vindos ao perfil da Paty.
 
 <!--
 **patysevidanis/patysevidanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
